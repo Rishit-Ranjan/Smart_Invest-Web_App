@@ -74,6 +74,10 @@ npm run dev
 **Backend:** Flask, Python  
 **Data:** yfinance, Google News RSS, VADER Sentiment<br/><br/>
 
+## 📄 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
 ## Home Screen:
 <img width="1857" height="907" alt="Screenshot 2026-03-17 105244" src="https://github.com/user-attachments/assets/7cb4a019-b5fe-4b25-98d1-b89f67029104" /><br/><br/>
 
